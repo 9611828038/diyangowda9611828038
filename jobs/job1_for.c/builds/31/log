@@ -1,0 +1,23 @@
+Started by user [8mha:////4I9DKfuWJJvssUehK46Da7ZjhkrEDRFuhusX2YdUtqBiAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzeEgZu/dLi1CL9xJTczDwACG0V4sAAAAA=[0mamithgowda ln
+Running as SYSTEM
+Building remotely on [8mha:////4Mt4SC0figCvs0sTohF3qFenfQ4TdTJyoZq4snosZaFIAAAAmh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZ+/eT83ILSktQi/TygOw0BADPgR8QAAAA=[0mnode1 (amith) in workspace /home/ubuntu/workspace/job1_for.c
+The recommended git tool is: NONE
+using credential githubtoken
+Cloning the remote Git repository
+Cloning repository https://github.com/9611828038/jenkens-c.git
+ > git init /home/ubuntu/workspace/job1_for.c # timeout=10
+Fetching upstream changes from https://github.com/9611828038/jenkens-c.git
+ > git --version # timeout=10
+ > git --version # 'git version 2.43.0'
+using GIT_ASKPASS to set credentials githubtoken
+ > git fetch --tags --force --progress -- https://github.com/9611828038/jenkens-c.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git config remote.origin.url https://github.com/9611828038/jenkens-c.git # timeout=10
+ > git config --add remote.origin.fetch +refs/heads/*:refs/remotes/origin/* # timeout=10
+Avoid second fetch
+ > git rev-parse refs/remotes/origin/master^{commit} # timeout=10
+Checking out Revision 843e30766aedf85d6993c384bdf2d8dfb02bb2b2 (refs/remotes/origin/master)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f 843e30766aedf85d6993c384bdf2d8dfb02bb2b2 # timeout=10
+Commit message: "add all"
+ > git rev-list --no-walk 843e30766aedf85d6993c384bdf2d8dfb02bb2b2 # timeout=10
+Finished: SUCCESS

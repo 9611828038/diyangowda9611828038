@@ -1,0 +1,13 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2024-11-02 07:31:09.913 UTC</timestamp>
+  <md5sum>a0d9697e06d1a47567358cebdf725b58</md5sum>
+  <fileName>Credential id=githubtoken name=9611828038/****** (githubtoken)</fileName>
+  <usages>
+    <entry>
+      <string>job1_for.c</string>
+      <ranges>1-31,33</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>
